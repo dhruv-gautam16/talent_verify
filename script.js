@@ -3,8 +3,8 @@
 // Replace with your actual values from:
 // supabase.com → your project → Settings → API
 // ─────────────────────────────────────────────
-const SUPABASE_URL     = 'sb_publishable_pbU69QiHv3E2VPv8tQD69g_3l557GAr';
-const SUPABASE_ANON_KEY = 'https://emglbnpoecnwkwzxqlpt.supabase.co';
+const SUPABASE_URL      = 'https://emglbnpoecnwkwzxqlpt.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_pbU69QiHv3E2VPv8tQD69g_3l557GAr';
 
 // ─────────────────────────────────────────────
 // TOGGLE — switch between developer / recruiter
